@@ -1,4 +1,4 @@
-module github.com/kurmidev/gocomman
+module github.com/kurmidev/gocommon
 
 go 1.21.4
 
